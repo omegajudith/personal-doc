@@ -1,0 +1,2 @@
+# personal-doc
+understanding django
